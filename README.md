@@ -21,9 +21,9 @@ How to reach me:
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/thiranya-tennakoon/)
 * Add me on [Facebook](https://www.facebook.com/asi.tennakoon/)
 
-[![Thiranya's github stats](https://github-readme-stats.vercel.app/api?username=asitennakoon&count_private=true&show_icons=true&theme=algolia&hide=issues,prs&include_all_commits=true)]
+![Thiranya's github stats](https://github-readme-stats.vercel.app/api?username=asitennakoon&count_private=true&show_icons=true&theme=algolia&hide=issues,prs&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asitennakoon&langs_count=5)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asitennakoon&langs_count=5)
 
 
 ![](https://komarev.com/ghpvc/?username=asitennakoon)
